@@ -3,7 +3,7 @@
 <p>Hello! I'm Kavi Priya, a Software Engineer!</p>
 <p>I thrive on challenges, and nothing gets me more pumped than effective solutions in the ever-evolving world of software engineering.</p>
 <p>I would welcome the opportunity to discuss how my skills and experiences align with your needs in more detail.</p>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavipriya2004&label=Profile%20views&color=0e75b6&style=flat" alt="kavipriya2004" /> </p>
 
