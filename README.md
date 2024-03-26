@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/kavipriya2004/kavipriya2004/blob/main/assests/banner.png?raw=true" width="70%" height="70%"></div>
+<div align="center"> <img src="https://github.com/kavipriya2004/kavipriya2004/blob/main/assests/banner.png?raw=true" width="100%"> </div>
 <h1 align="center">Hi Everyone 👋, I'm KAVI PRIYA</h1>
 <p>Programmer • Web Developer • Web Designer • Technical Writer</p>
 <p>Hello! I'm Kavi Priya, a Software Engineer!</p>
