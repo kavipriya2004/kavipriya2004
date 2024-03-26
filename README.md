@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://github.com/kavipriya2004/kavipriya2004/blob/main/assests/banner.png?raw=true" width="100%"> </div>
-<h1 align="center">Hi Everyone 👋, I'm KAVI PRIYA</h1>
+<h1 align="center">Hi Everyone 👋, I'm KAVI</h1>
 <p>Programmer • Web Developer • Web Designer • Technical Writer</p>
 <p>Hello! I'm Kavi Priya, a Software Engineer!</p>
 <p>I thrive on challenges, and nothing gets me more pumped than effective solutions in the ever-evolving world of software engineering.</p>
