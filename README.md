@@ -1,4 +1,4 @@
-![Header](./[github profile\kavipriya2004\assests\banner.png])
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/github-header-image.png"> </div>
 <h1 align="center">Hi Everyone 👋, I'm KAVI PRIYA</h1>
 <p>Programmer • Web Developer • Web Designer • Technical Writer</p>
 <p>Hello! I'm Kavi Priya, a Software Engineer!</p>
