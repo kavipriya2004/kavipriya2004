@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React,Bootstrap,Python**
 
-- 📫 How to reach me **kavipriya2004@gmail.com**
+- 📫 How to reach me **kavipriya.kousalya2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
