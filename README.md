@@ -6,7 +6,7 @@
 🔭 I’m currently working on **Full Stack Development**<br>👯 I’m looking to collaborate on **Web and Cloud Projects**<br>🤝 I’m looking for help with **Backend Optimization**<br>🌱 I’m currently learning **DevOps and Cloud Computing**<br>💬 Ask me about **Frontend, Microservices, and CI/CD Pipelines**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavipriya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kavipriya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavipriya-m/)
 
 <div align="center">
   
