@@ -1,8 +1,4 @@
-
-<div style="width: 1000px; height: 300px; overflow: hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" 
-       style="transform: rotate(90deg); width: 1000px; height: 300px;" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="1000" height="300">
 
 # Hi there, I'm Kavipriya! 👋
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
